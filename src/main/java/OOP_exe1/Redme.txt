@@ -1,0 +1,8 @@
+1) Utwórz klasę o nazwie Car.
+2) Klasa powinna posiadać pola brand oraz model.
+3) Utwórz gettery i settery do wszystkich pól w klasie.
+4) Konstruktor dwuparametrowy, uzupełniający dane tworzonego obiektu.
+5) Utwórz metodę „description” wewnątrz klasy, która zwraca String z opisem obiektu.
+6) Za pomocą metody main stwórz kilka obiektów i zaprezentuj działanie metod.
+7) *Stwórz tablice samochodów. Uzupełnij ją i za pomocą pętli wyświetl opis wszystkich
+elementów.
